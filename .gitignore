@@ -20,3 +20,15 @@ src_w_solution/
 
 # Instructor-only notes (chứa gợi ý/đáp án chấm bài, không public cho học viên)
 docs/INSTRUCTOR_GUIDE.md
+
+# Database & local vector store cache
+chroma_data/
+
+# Auxiliary scripts & benchmarks (not required for lab submission)
+app.py
+bench.py
+embed_all.py
+run_benchmark.py
+benchmark_queries.txt
+ket_qua_benchmark.txt
+kaka.md
